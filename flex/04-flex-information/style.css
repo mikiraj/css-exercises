@@ -24,3 +24,26 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/*
+Where i start
+*/
+
+.container{
+  display: flex;
+  padding: 5px;
+  margin-left: 50px;
+  margin-top: 30px;
+  gap:50px;
+  text-align: center;
+}
+.container2{
+  display: flex;
+}
+.title{
+margin-left: auto;
+margin-right: auto;
+}
+.page{
+  max-width: 200px;
+}
