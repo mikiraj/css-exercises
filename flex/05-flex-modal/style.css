@@ -64,3 +64,40 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+
+
+/* Where the king penetrated this job */
+
+.modal{
+  display:flex;
+  max-width: 530px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 5px;
+  align-items: baseline;
+ 
+/*  gap:25px; */
+}
+
+.icon{
+  flex-shrink: 0;
+  margin-right:25px;
+  margin-top:15px;
+ 
+
+}
+
+.top-part{
+  display:flex;
+}
+
+.header{
+  margin-right: auto;
+  font-size: 20px;
+  font-weight: 800;
+  margin-bottom: 10px;
+  margin-top: -10px;
+}
+.close-button{
+  margin-bottom: 30px;
+}
